@@ -1,6 +1,6 @@
 # README
 
-<img src="https://github.com/endurance-lang/.github/assets/45442173/608a2750-3a99-42a6-866e-b35d04f5c008" width="200" height="200" />
+<img src="https://i.ibb.co/sRZ4KBm/ship-1024x1024.jpg" width="400" height="400" />
 
 
 ***Aaarggg bem vindo marinheiro***
